@@ -1,0 +1,1 @@
+cmd_drivers/usb/gadget/g_ether.ko := arm-poky-linux-gnueabi-ld -EL -r  -T /home/tic-imx/Desktop/SCM/kernel_scm/scripts/module-common.lds --build-id  -o drivers/usb/gadget/g_ether.ko drivers/usb/gadget/g_ether.o drivers/usb/gadget/g_ether.mod.o

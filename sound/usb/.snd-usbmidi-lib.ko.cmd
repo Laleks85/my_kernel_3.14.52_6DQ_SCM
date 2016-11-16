@@ -1,0 +1,1 @@
+cmd_sound/usb/snd-usbmidi-lib.ko := arm-poky-linux-gnueabi-ld -EL -r  -T /home/tic-imx/Desktop/SCM/kernel_scm/scripts/module-common.lds --build-id  -o sound/usb/snd-usbmidi-lib.ko sound/usb/snd-usbmidi-lib.o sound/usb/snd-usbmidi-lib.mod.o

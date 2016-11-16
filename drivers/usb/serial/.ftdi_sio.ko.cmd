@@ -1,0 +1,1 @@
+cmd_drivers/usb/serial/ftdi_sio.ko := arm-poky-linux-gnueabi-ld -EL -r  -T /home/tic-imx/Desktop/SCM/kernel_scm/scripts/module-common.lds --build-id  -o drivers/usb/serial/ftdi_sio.ko drivers/usb/serial/ftdi_sio.o drivers/usb/serial/ftdi_sio.mod.o

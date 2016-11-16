@@ -1,0 +1,1 @@
+cmd_drivers/usb/gadget/usb_f_eem.ko := arm-poky-linux-gnueabi-ld -EL -r  -T /home/tic-imx/Desktop/SCM/kernel_scm/scripts/module-common.lds --build-id  -o drivers/usb/gadget/usb_f_eem.ko drivers/usb/gadget/usb_f_eem.o drivers/usb/gadget/usb_f_eem.mod.o

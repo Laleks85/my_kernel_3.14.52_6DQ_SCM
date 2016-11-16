@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/bcmdhd/bcmdhd.ko := arm-poky-linux-gnueabi-ld -EL -r  -T /home/tic-imx/Desktop/SCM/kernel_scm/scripts/module-common.lds --build-id  -o drivers/net/wireless/bcmdhd/bcmdhd.ko drivers/net/wireless/bcmdhd/bcmdhd.o drivers/net/wireless/bcmdhd/bcmdhd.mod.o
