@@ -1,1 +1,0 @@
-cmd_drivers/media/platform/soc_camera/built-in.o :=  arm-poky-linux-gnueabi-ld -EL    -r -o drivers/media/platform/soc_camera/built-in.o drivers/media/platform/soc_camera/soc_camera.o drivers/media/platform/soc_camera/soc_mediabus.o drivers/media/platform/soc_camera/mx3_camera.o 

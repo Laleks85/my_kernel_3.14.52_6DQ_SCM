@@ -1,1 +1,0 @@
-cmd_drivers/usb/gadget/gadgetfs.ko := arm-poky-linux-gnueabi-ld -EL -r  -T /home/tic-imx/Desktop/SCM/kernel_scm/scripts/module-common.lds --build-id  -o drivers/usb/gadget/gadgetfs.ko drivers/usb/gadget/gadgetfs.o drivers/usb/gadget/gadgetfs.mod.o

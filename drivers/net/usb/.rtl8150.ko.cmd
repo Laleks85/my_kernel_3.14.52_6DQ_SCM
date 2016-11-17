@@ -1,1 +1,0 @@
-cmd_drivers/net/usb/rtl8150.ko := arm-poky-linux-gnueabi-ld -EL -r  -T /home/tic-imx/Desktop/SCM/kernel_scm/scripts/module-common.lds --build-id  -o drivers/net/usb/rtl8150.ko drivers/net/usb/rtl8150.o drivers/net/usb/rtl8150.mod.o

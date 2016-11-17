@@ -1,1 +1,0 @@
-cmd_drivers/media/platform/mxc/capture/adv7180_tvin.ko := arm-poky-linux-gnueabi-ld -EL -r  -T /home/tic-imx/Desktop/SCM/kernel_scm/scripts/module-common.lds --build-id  -o drivers/media/platform/mxc/capture/adv7180_tvin.ko drivers/media/platform/mxc/capture/adv7180_tvin.o drivers/media/platform/mxc/capture/adv7180_tvin.mod.o
